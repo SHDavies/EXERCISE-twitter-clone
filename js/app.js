@@ -30,4 +30,7 @@ $(function() {
 			$('#tweet-submit').removeAttr('disabled');
 		}
 	})
+
+	//insert tweet in main feed when button is clicked
+	
 })
